@@ -6,7 +6,7 @@ import (
 	"t"
 	)
 	
-func main() {
+func mai() {
 	fmt.Println("test get 11")
 	ap.M()
 	t.TT()
