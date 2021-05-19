@@ -7,7 +7,7 @@ import (
 	)
 	
 func main() {
-	fmt.Println("test get 3")
+	fmt.Println("test get 4")
 	ap.M()
 	t.TT()
 }
