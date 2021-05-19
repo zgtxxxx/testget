@@ -7,5 +7,5 @@ import (
 	
 func main() {
 	fmt.Println("test get.")
-	ap.m()
+	ap.M()
 }
