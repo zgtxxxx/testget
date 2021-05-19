@@ -1,4 +1,4 @@
-package ma
+package main
 
 import (
 	"fmt"
@@ -6,7 +6,7 @@ import (
 	"t"
 	)
 	
-func mai() {
+func main() {
 	fmt.Println("test get 11")
 	ap.M()
 	t.TT()
