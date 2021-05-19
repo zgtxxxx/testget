@@ -4,6 +4,6 @@ import (
 	"fmt"
 	)
 	
-func main() {
+func m() {
 	fmt.Println("test static file")
 }
