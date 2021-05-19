@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"testget/ap"
+	"github.com/zgtxxxx/testget/ap"
 	)
 	
 func main() {
