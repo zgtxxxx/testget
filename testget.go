@@ -3,11 +3,11 @@ package main
 import (
 	"fmt"
 	"github.com/zgtxxxx/testget/ap"
-	"t"
+	//"t"
 	)
 	
 func main() {
 	fmt.Println("test get 12")
 	ap.M()
-	t.TT()
+	//t.TT()
 }
